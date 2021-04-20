@@ -2,6 +2,8 @@
 
 Frontend boilerplate / Folder structure created for beginner quick start. Focus 🔭 on Actual Goal 🪐 !!!
 
+Check Out **[Documentation](https://github.com/iKunalmathur/Frontend-Bolierplate-With-Scss-And-Parcel-Bundler/blob/main/DOCUMENTATION.md)** For Workaround.
+
 ## Why Parcel 📦?
 
 Parcel allows you to simply start developing. That's the biggest advantage of using it as a bundler — alongside its blazing fast compiling that utilizes multicore processing where other bundlers, including webpack, work off of complex and heavy transforms.
