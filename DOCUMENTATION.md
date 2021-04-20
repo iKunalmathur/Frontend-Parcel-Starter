@@ -20,3 +20,5 @@ You can import your scss file into "index.js"
 ```bash
 import "./style/scss/main.scss"
 ```
+
+Note : Don't Forget to remove link "<link rel="stylesheet" href="./style/scss/main.scss">" from "index.html".

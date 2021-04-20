@@ -2,7 +2,7 @@
 
 Frontend boilerplate / Folder structure created for beginner quick start. Focus 🔭 on Actual Goal 🪐 !!!
 
-Check Out **[Documentation](https://github.com/iKunalmathur/Frontend-Bolierplate-With-Scss-And-Parcel-Bundler/blob/main/DOCUMENTATION.md)** For Workaround.
+Check Out **[Documentation](https://github.com/iKunalmathur/Frontend-Parcel-Starter/blob/main/DOCUMENTATION.md)** For Workaround.
 
 ## Why Parcel 📦?
 
@@ -37,24 +37,24 @@ Clone Repo or Download Zip.
 ### HTTPS
 
 ```bash
-https://github.com/iKunalmathur/Frontend-Bolierplate-With-Scss-And-Parcel-Bundler.git
+https://github.com/iKunalmathur/Frontend-Parcel-Starter.git
 ```
 
 ### SSH
 
 ```bash
-git@github.com:iKunalmathur/Frontend-Bolierplate-With-Scss-And-Parcel-Bundler.git
+git@github.com:iKunalmathur/Frontend-Parcel-Starter.git
 ```
 
 ### GitHub CLI
 
 ```bash
-gh repo clone iKunalmathur/Frontend-Bolierplate-With-Scss-And-Parcel-Bundler
+gh repo clone iKunalmathur/Frontend-Parcel-Starter
 ```
 
 ### Download Zip
 
-[https://github.com/iKunalmathur/Frontend-Bolierplate-With-Scss-And-Parcel-Bundler/archive/refs/heads/master.zip](https://github.com/iKunalmathur/Frontend-Bolierplate-With-Scss-And-Parcel-Bundler/archive/refs/heads/master.zip)
+[https://github.com/iKunalmathur/Frontend-Parcel-Starter/archive/refs/heads/master.zip](https://github.com/iKunalmathur/Frontend-Parcel-Starter/archive/refs/heads/master.zip)
 
 ## Usage
 
