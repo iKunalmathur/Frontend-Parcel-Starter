@@ -1,0 +1,24 @@
+{
+  "name": "project-name",
+  "version": "1.0.0",
+  "description": "Frontend Bolierplate With Scss And Parcel Bundler",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel ./src/index.html",
+    "build": "parcel build ./src/index.html"
+  },
+  "keywords": [
+    "frontend",
+    "scss",
+    "parcel",
+    "Bundler",
+    "bolierplate",
+    "hot reloding"
+  ],
+  "author": "kunalmathur.in",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "sass": "^1.32.11"
+  }
+}

@@ -1,0 +1,44 @@
+// Presets
+
+* {
+  box-sizing: border-box;
+
+  // NOTE : Uncomment margin and padding to remove initial margin and padding form every html element e.g. h1, p, ul.
+  //   margin: 0;
+  //   padding: 0;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+// Variables
+
+$bg-primary: hsl(0, 0%, 20%);
+
+// Utility
+
+.center {
+  display: grid;
+  place-content: center;
+  height: 100%;
+}
+.text-center {
+  text-align: center !important;
+}
+
+// Styling
+
+body {
+  height: 100vh;
+  background-color: $bg-primary;
+  @if (lightness($bg-primary) > 40) {
+    color: #333;
+  } @else {
+    color: #fff;
+  }
+}
