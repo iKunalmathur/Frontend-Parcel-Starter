@@ -54,7 +54,7 @@ gh repo clone iKunalmathur/Frontend-Parcel-Starter
 
 ### Download Zip
 
-[https://github.com/iKunalmathur/Frontend-Parcel-Starter/archive/refs/heads/master.zip](https://github.com/iKunalmathur/Frontend-Parcel-Starter/archive/refs/heads/master.zip)
+[Download 🌠](https://codeload.github.com/iKunalmathur/Frontend-Parcel-Starter/zip/refs/heads/main)
 
 ## Usage
 
