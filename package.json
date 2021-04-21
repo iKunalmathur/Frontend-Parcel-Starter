@@ -4,7 +4,7 @@
   "description": "Frontend Bolierplate With Scss And Parcel Bundler",
   "main": "index.js",
   "scripts": {
-    "dev": "parcel ./src/index.html",
+    "dev": "parcel ./src/index.html -p 3000",
     "build": "parcel build ./src/index.html"
   },
   "keywords": [
@@ -15,7 +15,7 @@
     "bolierplate",
     "hot reloding"
   ],
-  "author": "kunalmathur.in",
+  "author": "https://kunalmathur.in",
   "license": "ISC",
   "devDependencies": {
     "parcel-bundler": "^1.12.5",
